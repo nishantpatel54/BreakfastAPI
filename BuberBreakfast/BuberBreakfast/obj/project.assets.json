@@ -1,13 +1,29 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "BuberBreakfast.Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/BuberBreakfast.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BuberBreakfast.Contracts.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "BuberBreakfast.Contracts/1.0.0": {
+      "type": "project",
+      "path": "../BuberBreakfast.Contracts/BuberBreakfast.Contracts.csproj",
+      "msbuildProject": "../BuberBreakfast.Contracts/BuberBreakfast.Contracts.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
     "net7.0": [
-      "Microsoft.AspNetCore.OpenApi >= 7.0.5",
-      "Swashbuckle.AspNetCore >= 6.4.0"
+      "BuberBreakfast.Contracts >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -34,7 +50,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\np549\\Desktop\\Repos\\BreakfastAPI\\BuberBreakfast\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj": {
+              "projectPath": "C:\\Users\\np549\\Desktop\\Repos\\BreakfastAPI\\BuberBreakfast\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -46,16 +66,6 @@
     "frameworks": {
       "net7.0": {
         "targetAlias": "net7.0",
-        "dependencies": {
-          "Microsoft.AspNetCore.OpenApi": {
-            "target": "Package",
-            "version": "[7.0.5, )"
-          },
-          "Swashbuckle.AspNetCore": {
-            "target": "Package",
-            "version": "[6.4.0, )"
-          }
-        },
         "imports": [
           "net461",
           "net462",
@@ -78,25 +88,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1101",
-      "level": "Error",
-      "message": "Unable to find package Microsoft.AspNetCore.OpenApi. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs",
-      "libraryId": "Microsoft.AspNetCore.OpenApi",
-      "targetGraphs": [
-        "net7.0"
-      ]
-    },
-    {
-      "code": "NU1101",
-      "level": "Error",
-      "message": "Unable to find package Swashbuckle.AspNetCore. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs",
-      "libraryId": "Swashbuckle.AspNetCore",
-      "targetGraphs": [
-        "net7.0"
-      ]
-    }
-  ]
+  }
 }

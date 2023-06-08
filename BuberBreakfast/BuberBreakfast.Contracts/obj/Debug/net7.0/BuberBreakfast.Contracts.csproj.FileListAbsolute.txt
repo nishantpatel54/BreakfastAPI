@@ -1,0 +1,12 @@
+C:\Users\np549\Desktop\Repos\BreakfastAPI\BuberBreakfast\BuberBreakfast.Contracts\bin\Debug\net7.0\BuberBreakfast.Contracts.deps.json
+C:\Users\np549\Desktop\Repos\BreakfastAPI\BuberBreakfast\BuberBreakfast.Contracts\bin\Debug\net7.0\BuberBreakfast.Contracts.dll
+C:\Users\np549\Desktop\Repos\BreakfastAPI\BuberBreakfast\BuberBreakfast.Contracts\bin\Debug\net7.0\BuberBreakfast.Contracts.pdb
+C:\Users\np549\Desktop\Repos\BreakfastAPI\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net7.0\BuberBreakfast.Contracts.csproj.AssemblyReference.cache
+C:\Users\np549\Desktop\Repos\BreakfastAPI\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net7.0\BuberBreakfast.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\np549\Desktop\Repos\BreakfastAPI\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net7.0\BuberBreakfast.Contracts.AssemblyInfoInputs.cache
+C:\Users\np549\Desktop\Repos\BreakfastAPI\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net7.0\BuberBreakfast.Contracts.AssemblyInfo.cs
+C:\Users\np549\Desktop\Repos\BreakfastAPI\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net7.0\BuberBreakfast.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\np549\Desktop\Repos\BreakfastAPI\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net7.0\BuberBreakfast.Contracts.dll
+C:\Users\np549\Desktop\Repos\BreakfastAPI\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net7.0\refint\BuberBreakfast.Contracts.dll
+C:\Users\np549\Desktop\Repos\BreakfastAPI\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net7.0\BuberBreakfast.Contracts.pdb
+C:\Users\np549\Desktop\Repos\BreakfastAPI\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net7.0\ref\BuberBreakfast.Contracts.dll

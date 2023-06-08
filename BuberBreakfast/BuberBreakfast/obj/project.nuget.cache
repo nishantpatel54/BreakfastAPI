@@ -1,27 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m7698ovmyUB+zElsRF9XvdLntEyZxptKxeruFA+Y4kSDYg+ei6YsZ9Pu3cm0J0cGr1hU/fGihUiNE2KPoJrI0A==",
-  "success": false,
+  "dgSpecHash": "DJMgEYy/tV+wS0RpsSjJ5Se9SIOBqFaoFTMhf74iDKn6X9lKEFlAmkKtSlqZPDDL/oJ8SMoyiNdUgaJZGbPNvA==",
+  "success": true,
   "projectFilePath": "C:\\Users\\np549\\Desktop\\Repos\\BreakfastAPI\\BuberBreakfast\\BuberBreakfast\\BuberBreakfast.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "NU1101",
-      "level": "Error",
-      "message": "Unable to find package Microsoft.AspNetCore.OpenApi. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs",
-      "libraryId": "Microsoft.AspNetCore.OpenApi",
-      "targetGraphs": [
-        "net7.0"
-      ]
-    },
-    {
-      "code": "NU1101",
-      "level": "Error",
-      "message": "Unable to find package Swashbuckle.AspNetCore. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs",
-      "libraryId": "Swashbuckle.AspNetCore",
-      "targetGraphs": [
-        "net7.0"
-      ]
-    }
-  ]
+  "logs": []
 }
